@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="txtHello_world">Hello World</string>
+    <string name="btnSurprise_me">Surprise!</string>
+
+</resources>
