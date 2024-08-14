@@ -3,5 +3,6 @@
 
     <string name="txtHello_world">Hello World</string>
     <string name="btnSurprise_me">Surprise!</string>
+    <string name="welcome_msg">Welcome, Master</string>
 
 </resources>
